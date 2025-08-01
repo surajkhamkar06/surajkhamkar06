@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Suraj, a Computer Engineering graduate from Smt. Kashibai Navale College of Engineering, Vadgaon. 🎓 During my BE journey, I built a strong foundation in: Programming concepts Software development Core computer fundamentals 💻 I'm passionate about building reliable, efficient, and scalable software. 🚀 Currently, I’m diving deeper into Java and Spring Boot to master backend development and enterprise application design. 📚 Always learning, always building. Let’s connect, collaborate, and create something great together!
+Hi there! I'm Suraj,BE In Electronics & Telecommunication Engineering graduate from Smt. Kashibai Navale College of Engineering, Vadgaon , pune. 🎓 During my BE journey, I built a strong foundation in: Programming concepts Software development Core computer fundamentals 💻 I'm passionate about building reliable, efficient, and scalable software. 🚀 Currently, I’m diving deeper into Java and Spring Boot to master backend development and enterprise application design. 📚 Always learning, always building. Let’s connect, collaborate, and create something great together!
 
 
 ## 🌐 Socials:
